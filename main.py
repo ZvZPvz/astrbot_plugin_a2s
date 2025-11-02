@@ -491,7 +491,6 @@ class A2SServerQuery(Star):
                            "/find appid:name (image)\n"
                            "/findt appid:name (text)\n"
                            "作者：ZvZPvz\n"
-                           "版本：2.1.1\n"
                            "Github：https://github.com/ZvZPvz/astrbot_plugin_a2s")
     @filter.llm_tool("find_steam_game_server")
     
