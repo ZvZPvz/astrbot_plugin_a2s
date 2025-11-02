@@ -8,6 +8,7 @@ from playwright.async_api import async_playwright
 import platform
 import textwrap
 import requests
+import os
 
 class ServerStatusRenderer:
     def __init__(self):
