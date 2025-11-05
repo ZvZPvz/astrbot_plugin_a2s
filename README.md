@@ -1,4 +1,4 @@
-# astrbot_plugin_box
+# astrbot_plugin_a2s
 
 _✨ [astrbot](https://github.com/AstrBotDevs/AstrBot) A2S协议服务器状态查询插件 (Source) ✨_  
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
